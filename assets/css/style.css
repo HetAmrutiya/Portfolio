@@ -524,7 +524,7 @@ background-color: #FFDAB9;
 .skills {
     padding: 50px 20px;
     text-align: center;
-    background: #f4f4f4;
+    background: linear-gradient(to bottom, #57059e, #4a00e0);
 }
 
 .skills-container {
